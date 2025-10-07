@@ -1,0 +1,10 @@
+C:\Users\btlbi\source\repos\NTP_HW_2\NTP_HW_2\bin\Debug\NTP_HW_2.exe.config
+C:\Users\btlbi\source\repos\NTP_HW_2\NTP_HW_2\bin\Debug\NTP_HW_2.exe
+C:\Users\btlbi\source\repos\NTP_HW_2\NTP_HW_2\bin\Debug\NTP_HW_2.pdb
+C:\Users\btlbi\source\repos\NTP_HW_2\NTP_HW_2\obj\Debug\NTP_HW_2.csprojAssemblyReference.cache
+C:\Users\btlbi\source\repos\NTP_HW_2\NTP_HW_2\obj\Debug\NTP_HW_2.Form1.resources
+C:\Users\btlbi\source\repos\NTP_HW_2\NTP_HW_2\obj\Debug\NTP_HW_2.Properties.Resources.resources
+C:\Users\btlbi\source\repos\NTP_HW_2\NTP_HW_2\obj\Debug\NTP_HW_2.csproj.GenerateResource.cache
+C:\Users\btlbi\source\repos\NTP_HW_2\NTP_HW_2\obj\Debug\NTP_HW_2.csproj.CoreCompileInputs.cache
+C:\Users\btlbi\source\repos\NTP_HW_2\NTP_HW_2\obj\Debug\NTP_HW_2.exe
+C:\Users\btlbi\source\repos\NTP_HW_2\NTP_HW_2\obj\Debug\NTP_HW_2.pdb
